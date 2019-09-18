@@ -21,6 +21,6 @@ class Book
 
 end
 
-GENRES
+
 
 binding.pry
