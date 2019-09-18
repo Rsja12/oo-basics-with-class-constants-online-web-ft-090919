@@ -18,9 +18,8 @@ class Book
     @genre = genre
     GENRES << genre
   end
+binding.pry
 
 end
 
 
-
-binding.pry
